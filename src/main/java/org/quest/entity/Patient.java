@@ -1,4 +1,4 @@
 package org.quest.entity;
 
-public class patient {
+public class Patient {
 }
